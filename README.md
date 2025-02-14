@@ -14,7 +14,7 @@
 
 ### 2. Классификация временных рядов
 
-Файл: time_series_classification_with_neural_networks.docx
+Файл: classification_with_neural_networks.docx
 
 * Решение задачи классификации данных временных рядов.
 
